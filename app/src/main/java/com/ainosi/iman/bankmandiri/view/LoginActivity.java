@@ -69,16 +69,16 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
-//        UserModel user = new UserModel();
-//        user.setCifnumber("1000005085");
-//        user.setAccountnumber("1111006397571");
-//        user.setUsername("aditya");
-//        user.setPassword("123456");
-//        user.setName("Aditya Zulfahmi");
-//        user.setBalance("0");
-//        user.setSet_a(70);
-//        user.setSet_b(20);
-//        user.setSet_c(10);
+        UserModel user = new UserModel();
+        user.setCifnumber("1000005085");
+        user.setAccountnumber("1111006397571");
+        user.setUsername("aditya");
+        user.setPassword("123456");
+        user.setName("Aditya Zulfahmi");
+        user.setBalance("0");
+        user.setSet_a(70);
+        user.setSet_b(20);
+        user.setSet_c(10);
 //
 //        database.insertUser(user);
 //
